@@ -110,6 +110,11 @@ div#sea {
   height: 25%;
   z-index: 2;
 }
+.slider{
+  color: #fff;
+  font-size: 24px;
+  margin-top: 1650px;
+}
 .giftbox .cover:before {
   position: absolute;
   height: 100%;
@@ -455,5 +460,9 @@ div#sea {
   .moon {
     right: 230px;
   }
+  .slider{
+    margin-top: 680px;
+  }
+  
 }
 
